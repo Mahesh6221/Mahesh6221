@@ -13,7 +13,7 @@
 - 💬 Ask me about **Python,Django,Sqlite, Gin,Golang,Core Java,HTML,CSS,JS**
 
 - 📫 How to reach me **maheshpatil6221@gmail.com**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DmxBQO0k9rfYMne9RQpsG9x9gi2Vi8-s/view?usp=sharing](https://drive.google.com/file/d/1DmxBQO0k9rfYMne9RQpsG9x9gi2Vi8-s/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DmxBQO0k9rfYMne9RQpsG9x9gi2Vi8-s/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
