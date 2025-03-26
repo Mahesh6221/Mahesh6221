@@ -1,7 +1,7 @@
 ![logo](https://github.com/Mahesh6221/Mahesh6221/blob/main/download.jfif)
 <h1 align="center">Hi 👋, I'm Mahesh Patil</h1>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/b7cd9fba-d573-4d7d-a592-5feca3f3367b)
-">
+<!-- <img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/b7cd9fba-d573-4d7d-a592-5feca3f3367b)
+"> -->
 <h3 align="center">Hello there! I'm a passionate Software developer with 1.4 years of experience in designing, developing, and maintaining robust web applications. I specialize in utilizing Python, Django, Django Rest Framework (DRF), Golang and gin to build high-performance RESTful APIs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahesh6221&label=Profile%20views&color=0e75b6&style=flat" alt="mahesh6221" /> </p>
