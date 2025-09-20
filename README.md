@@ -1,4 +1,4 @@
-<!--
+<!-- ...
 <!-- ![logo](https://github.com/Mahesh6221/Mahesh6221/blob/main/download.jfif) -->
 <h1 align="center">Hi 👋, I'm Mahesh Patil</h1>
 <!-- <img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/b7cd9fba-d573-4d7d-a592-5feca3f3367b)
